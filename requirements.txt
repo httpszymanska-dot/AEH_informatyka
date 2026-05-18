@@ -1,1 +1,6 @@
+libraries to install beforehand:
 
+-scipy,
+-wfdb,
+-numpy,
+-pandas.
